@@ -11,4 +11,4 @@ The best way to access the projects is to copy them into your personal GitHub ac
 
 If you're not familiar with git and GitHub, there's a tutorial available on the MPIE site at [this repository](https://github.com/UoY-IM-MPIE/mpie-git-tutorial).
 
-To setup your first website and view it through git use the tutorial available at [this repository](www.google.com)
+To setup your first website and view it through git use the tutorial available at [this repository](https://github.com/IM-WADD/GitPages-Tutorial)
